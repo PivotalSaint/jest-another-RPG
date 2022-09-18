@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This code helps provide functionality for TDD and OOP, mainly used for testing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PivotalSaint/jest-another-RPG.git"
+  },
+  "author": "Pivotal Saint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PivotalSaint/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/PivotalSaint/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
